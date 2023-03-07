@@ -1,6 +1,12 @@
 ---
 title: Convert Days to Seconds
 description: Convert number of days to seconds
+tags:
+  - days
+  - seconds
+  - conversion
+  - math
+  - time
 ---
 
 # Convert Days to Seconds

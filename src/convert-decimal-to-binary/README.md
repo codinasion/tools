@@ -1,6 +1,13 @@
 ---
 title: Convert Decimal to Binary
 description: Convert a decimal number to binary number
+tags:
+  - binary
+  - decimal
+  - conversion
+  - math
+  - number
+  - number system
 ---
 
 # Convert Decimal to Binary

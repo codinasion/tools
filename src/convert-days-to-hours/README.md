@@ -1,6 +1,12 @@
 ---
 title: Convert Days to Hours
 description: Convert number of days to hours
+tags:
+  - days
+  - hours
+  - conversion
+  - math
+  - time
 ---
 
 # Convert Days to Hours

@@ -1,6 +1,11 @@
 ---
 title: Sum of Numbers
-description: Find Sum of Numbers
+description: Find Sum of
+tags:
+  - number
+  - sum
+  - addition
+  - math
 ---
 
 # Sum of Numbers

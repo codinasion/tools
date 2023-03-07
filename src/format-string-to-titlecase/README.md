@@ -1,6 +1,12 @@
 ---
 title: Format String to Title Case
 description: Convert a string to title case.
+tags:
+  - string
+  - title case
+  - conversion
+  - format
+  - titlecase
 ---
 
 # Format String to Title Case

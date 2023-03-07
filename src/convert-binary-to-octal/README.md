@@ -1,6 +1,13 @@
 ---
 title: Convert Binary to Octal
-description: Convert a binary number to an octal number
+description: Convert a binary number to an octal
+tags:
+  - binary
+  - octal
+  - conversion
+  - math
+  - number
+  - number system
 ---
 
 # Convert Binary to Octal

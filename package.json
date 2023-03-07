@@ -1,6 +1,6 @@
 {
   "name": "@codinasion/tools",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "private": false,
   "description": "Collection of open source tools",
   "main": "lib/index.js",

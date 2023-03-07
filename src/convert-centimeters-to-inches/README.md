@@ -1,6 +1,12 @@
 ---
 title: Convert Centimeters to Inches
 description: Convert a length in centimeters to a length in inches
+tags:
+  - centimeters
+  - inches
+  - conversion
+  - math
+  - length
 ---
 
 # Convert Centimeters to Inches

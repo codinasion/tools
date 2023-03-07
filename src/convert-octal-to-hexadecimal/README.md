@@ -1,6 +1,13 @@
 ---
 title: Convert Octal to Hexadecimal
 description: Convert a octal number to hexadecimal number.
+tags:
+  - octal
+  - hexadecimal
+  - conversion
+  - math
+  - number
+  - number system
 ---
 
 # Convert Octal to Hexadecimal

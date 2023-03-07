@@ -1,6 +1,13 @@
 ---
 title: Convert Hexadecimal to Decimal
 description: Convert a hexadecimal number to a decimal number.
+tags:
+  - hexadecimal
+  - decimal
+  - conversion
+  - math
+  - number
+  - number system
 ---
 
 # Convert Hexadecimal to Decimal

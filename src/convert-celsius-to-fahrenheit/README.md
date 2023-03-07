@@ -1,6 +1,12 @@
 ---
 title: Convert Celsius to Fahrenheit
 description: Convert a temperature in Celsius to a temperature in Fahrenheit
+tags:
+  - celsius
+  - fahrenheit
+  - conversion
+  - math
+  - temperature
 ---
 
 # Convert Celsius to Fahrenheit

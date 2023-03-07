@@ -1,6 +1,12 @@
 ---
 title: Convert Centimeters to Feet
 description: Convert a length in centimeters to a length in feet
+tags:
+  - centimeters
+  - feet
+  - conversion
+  - math
+  - length
 ---
 
 # Convert Centimeters to Feet

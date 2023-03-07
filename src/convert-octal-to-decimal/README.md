@@ -1,6 +1,13 @@
 ---
 title: Convert Octal to Decimal
 description: Convert a number from octal to decimal.
+tags:
+  - octal
+  - decimal
+  - conversion
+  - math
+  - number
+  - number system
 ---
 
 # Convert Octal to Decimal

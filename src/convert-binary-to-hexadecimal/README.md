@@ -1,6 +1,13 @@
 ---
 title: Convert Binary to Hexadecimal
 description: Convert a binary number to a hexadecimal number
+tags:
+  - binary
+  - hexadecimal
+  - conversion
+  - math
+  - number
+  - number system
 ---
 
 # Convert Binary to Hexadecimal

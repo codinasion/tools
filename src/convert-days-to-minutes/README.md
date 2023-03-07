@@ -1,6 +1,12 @@
 ---
 title: Convert Days to Minutes
-description: Convert number of days to minutes
+description: Convert number of days to
+tags:
+  - days
+  - minutes
+  - conversion
+  - math
+  - time
 ---
 
 # Convert Days to Minutes
